@@ -1,0 +1,6 @@
+[book]
+authors = ["Douglas H. Bradshaw"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Python by the Inch"
