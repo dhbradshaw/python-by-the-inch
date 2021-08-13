@@ -2,4 +2,4 @@
 push:
 	git add -Av 
 	git commit -m "$(shell date)" 
-	git push origin master
+	git push origin main
