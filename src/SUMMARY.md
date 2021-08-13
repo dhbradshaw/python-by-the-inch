@@ -1,9 +1,8 @@
 # Summary
 
-[Introduction](./README.md)
-
-- [Python as a Calculator](./README.md)
-  - [Addition: +]()
+- [Introduction](./README.md)
+- [Python as a Calculator](python-as-calculator/README.md)
+  - [Addition: +](python-as-calculator/addition.md)
   - [Subtraction: -]()
   - [Multiplication: *]()
   - [Division: /]()
