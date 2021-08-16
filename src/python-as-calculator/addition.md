@@ -1,9 +1,15 @@
-# Addition: +
+# Addition: (+)
 
-```python
+Addition in Python
+
+In
+
+```python,in
 1 + 1
 ```
 
-```python
+Out
+
+```text
 2
 ```

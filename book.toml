@@ -4,3 +4,5 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Python by the Inch"
+
+[preprocessor.classy]

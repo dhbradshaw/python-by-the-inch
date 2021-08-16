@@ -1,3 +1,12 @@
+<style>
+    .big{font-size: 2em;}
+    .blackbackground{background: black;}
+    .little{font-size: .75em}
+    .orange{color: orange;}
+    .padded{padding: 2em;}
+    .red{color: red;}
+</style>
+
 # Introduction
 
 > Inch by inch, life's a cinch. Yard by yard, life's hard.
@@ -12,5 +21,6 @@ Mastery of Python is a great goal, and I hope that this book can help you get th
 Take this tour, practice each little bit, and you'll find yourself writing python
 long before you're done here.
 
+{:.orange}
 So I invite you to study this book bit by bit and to use the things you learn here.
 If you do that, very soon you can become competent in a very powerful language.
