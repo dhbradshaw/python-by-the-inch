@@ -1,6 +1,6 @@
 # Exponentiation: (**)
 
-Division in Python
+Exponetiation in Python
 
 In
 

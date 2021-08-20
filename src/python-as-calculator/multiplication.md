@@ -1,6 +1,6 @@
 # Multiplication: (-)
 
-Subtraction in Python:
+Multiplication in Python:
 
 In
 
