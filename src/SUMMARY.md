@@ -7,6 +7,7 @@
   - [Multiplication: (*)](python-as-calculator/multiplication.md)
   - [Division: (/)](python-as-calculator/division.md)
   - [Exponentiation: (**)](python-as-calculator/exponentiation.md)
+  - [Order of Operations:](python-as-calculator/order-of-operations.md)
   - [Parentheses: (())](python-as-calculator/parenthesis.md)
   - [Numerical types]()
     - [Fractions: Fraction(1, 2)]()
